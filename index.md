@@ -1,5 +1,6 @@
 ## Who am I?
 Hello, My name is Jantony Velazquez Gauthier and I am a Computer Science student in the University of Puerto Rico.
+Although I'm interested in many things in this field my main interests lie in systems programming.
 This site is currently Work-In-Progress.
 
 ## Skills
