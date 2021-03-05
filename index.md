@@ -27,4 +27,4 @@ N/A
 
 ## About this site
 This site is currently WIP.
-[more info](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[more info](https://www.youtube.com/watch?v=dQw4w9WgXcQ)\
