@@ -26,5 +26,5 @@ unfortunately what can be seen in my github is only a fraction of what I've done
 N/A
 
 ## About this site
-This site is currently WIP.
-[more info](https://www.youtube.com/watch?v=dQw4w9WgXcQ)\
+This site is currently WIP.\
+[more info](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
